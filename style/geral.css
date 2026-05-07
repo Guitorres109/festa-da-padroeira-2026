@@ -1,0 +1,40 @@
+:root{
+
+  /* IDENTIDADE VISUAL */
+
+  --primary: #7b1e1e;
+  --secondary: #d4aa52;
+  --accent: #f6e7be;
+
+  --wine: #4e0f0f;
+  --gold: #d4aa52;
+  --gold-light: #f3ddb0;
+  --cream: #f8f1df;
+
+  --bg: #f5ead1;
+  --card: rgba(255, 248, 235, 0.78);
+
+  --text: #3a1a1a;
+  --text-soft: #6d4b4b;
+
+  --border: rgba(122, 73, 19, 0.12);
+
+  --shadow:
+  0 15px 35px rgba(0,0,0,.12);
+
+  /* FONTES */
+
+  --font-title: "Cinzel", serif;
+  --font-body: "Poppins", sans-serif;
+
+  /* BORDAS */
+
+  --radius-lg: 28px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+
+  /* TRANSIÇÕES */
+
+  --transition: .35s ease;
+
+}
